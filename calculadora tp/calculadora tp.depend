@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1599940598 source:c:\users\crosli\desktop\carpeta de code\calculadora tp\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1599940598 c:\users\crosli\desktop\carpeta de code\calculadora tp\funciones.h
+	<stdio.h>
+
+1599939202 source:c:\users\crosli\desktop\carpeta de code\calculadora tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
