@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601677620 source:c:\users\crosli\desktop\tp2nomina de empleados\array de employee.c
+	"Array de Employee.h"
+
+1601677605 c:\users\crosli\desktop\tp2nomina de empleados\array de employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1601677626 source:c:\users\crosli\desktop\tp2nomina de empleados\main.c
+	"Array de Employee.h"
+
